@@ -833,7 +833,9 @@ CN PLACEHOLDER
 同時に、僅かな振動を感じた。%K%P
 At the same time, there was a slight tremor.
 CN PLACEHOLDER
-В тот же момент пол под нами вздрогнул.
+В тот же момент почувствовалась лёгкая вибрация.
+// dsp2003: В тот же момент пол под нами вздрогнул.
+// тут повторение "под нами" и в следующей реплике "снизу"
 
 武「なんだ？」%K%P
 What's that?
@@ -903,12 +905,12 @@ CN PLACEHOLDER
 大きな揺れと共に、鉄の歪む音が聞こえる。%K%P
 The sound of metal giving way accompanied the massive shaking.
 CN PLACEHOLDER
-К металлическому отзвуку прибавилась массивная тряска.
+К тряске прибавился лязг металла.
 
 古い映画で見た、豪華客船の沈没する光景が脳裏に浮かんだ。%K%P
 Scenes from old movies of luxury liners being swallowed by the ocean flashed across my mind.
 CN PLACEHOLDER
-В моём мозгу промелькнули сцены из старых фильмов про роскошные лайнеры, которые проглатывает вода.
+В мозгу промелькнули сцены из старых фильмов про роскошные лайнеры, которые проглатывает вода.
 
 空「区画連結部に破損」%K%P
 There is damage to the passageways connecting the sectors.
@@ -918,7 +920,7 @@ CN PLACEHOLDER
 空「浸水箇所、複数の区画に拡大していきます」%K%P
 Multiple leak areas, and it's increasing.
 CN PLACEHOLDER
-Множественные повреждения обшивки, дыра продолжает расти.
+Затопление распространяется и на другие зоны.
 
 つぐみ「ねぇ……」%K%P
 Hey...
@@ -928,12 +930,12 @@ CN PLACEHOLDER
 つぐみ「どこかに掴まっておいたほうがいいんじゃない？」%K%P
 Don't you think we should grab hold of something?
 CN PLACEHOLDER
-Вам не кажется, что нам стоит ухватиться за что-нибудь?
+Может, нам лучше за что-нибудь ухватиться?
 
 優「ええ、そうね。みんな何かに掴まって、身体を固定して！」%K%P
 Yes. Everyone grab something and steady yourself!
 CN PLACEHOLDER
-Да. Ребята, хватайтесь за что-то, держитесь!
+Да, ребята. Хватайтесь за что-то, держитесь!
 
 武「わ、わかった」%K%P
 O-Okay.
@@ -943,7 +945,7 @@ CN PLACEHOLDER
 手近の支柱に手を伸ばした。%K%P
 I reached out for a support pillar nearby.
 CN PLACEHOLDER
-Я дотянулся до близлежащих перил.
+Я взялся за опорный столб неподалёку.
 
 ココはピピを抱きしめるようにしてしゃがんだ。%K%P
 Coco crouched down as she squeezed Pipi tightly.
@@ -978,7 +980,7 @@ CN PLACEHOLDER
 フロア全体が――いや、ＬｅＭＵ全体が揺れている。%K%P
 The whole floor, or rather the whole of LeMU shook.
 CN PLACEHOLDER
-Весь этаж, или даже весь LeMU, жутко дрожит.
+Весь этаж – нет, даже весь LeMU – жутко дрожит.
 
 身体が天井まで突き飛ばされるかと思ったや否や、今度は床へ圧しつけられる。%K%P
 I thought I would be thrown into the ceiling one second or pulverized into the floor the next.
@@ -988,22 +990,22 @@ CN PLACEHOLDER
 目の前のグッズショップも揺れている。%K%P
 The souvenir shop in front of me trembled.
 CN PLACEHOLDER
-Сувенирная лавка передо мной разваливается.
+Сувенирную лавку передо мной тоже трясёт.
 
 どんがらがっしゃーん！　と陳列された皿は割れ……%K%P
 The display of dishes in the shop fell to the floor and shattered...
 CN PLACEHOLDER
-Гравированные тарелки бьются об пол...
+Тарелки с витрины свалились на пол и разлетелись вдребезги...
 
 がらがらごろごろ、と積んであった缶は崩れ……%K%P
 The pile of empty cans clattered and gave way...
 CN PLACEHOLDER
-Горка из пустых банок развалилась...
+Гора из пустых банок развалилась...
 
 ぴっぽこぴー、と間の抜けた音を立てながら、お腹を押すと鳴くぬいぐるみが転がる。%K%P
 A stuffed animal made a beeping noise as it fell on its stomach.
 CN PLACEHOLDER
-Плюшевые игрушки попадали на животы, издавая писк.
+Какая-то плюшевая игрушка упала на живот, издав писк.
 
 俺達はひたすらに足を踏ん張って耐える。%K%P
 We all steadied ourselves against the shaking.
@@ -1013,7 +1015,7 @@ CN PLACEHOLDER
 耐えるしかなかった。%K%P
 All we could do was endure it.
 CN PLACEHOLDER
-Это нелегко.
+Больше нам ничего не остаётся.
 
 誰も何も言わない。%K%P
 No one said anything.
@@ -1023,7 +1025,7 @@ CN PLACEHOLDER
 ミシミシと鉄のきしむ音だけが聞こえる。%K%P
 We could hear the squeal of steel twisting.
 CN PLACEHOLDER
-Звучит лишь скрежет рвущегося металла.
+Звучит лишь скрежет металла.
 
 ごごごんっ。%K%P
 Boom, boom, boom.
@@ -1038,12 +1040,12 @@ CN PLACEHOLDER
 やがて、音は遠ざかって行った。%K%P
 Finally, the sound seemed to get farther away.
 CN PLACEHOLDER
-Наконец, звук начал удаляться.
+Наконец, звук затих.
 
 振動も徐々に収まっていく。%K%P
 The vibrations also gradually subsided.
 CN PLACEHOLDER
-Вибрация тоже стихла.
+Вибрация тоже отступила.
 
 空は第２次浸水の終了を告げた。%K%P
 Sora announced that the second wave of flooding had finished.
@@ -1053,7 +1055,7 @@ CN PLACEHOLDER
 俺達は警戒を続けながら、階下へと向かった。%K%P
 Still wary, we headed downstairs.
 CN PLACEHOLDER
-Мы спускаемся, оглядываясь по сторонам.
+Мы спускаемся, с опаской оглядываясь по сторонам.
 
 湿って滑りやすくなった階段を、慎重に進む。%K%P
 We carefully moved forward down the wet and slippery stairs.
@@ -1073,12 +1075,12 @@ CN PLACEHOLDER
 通路には、俺の足の脛辺りまで水が溜まっている……。%K%P
 The water level in the corridor reached around my shin...
 CN PLACEHOLDER
-Уровень воды уже доходит мне до голени...
+Вода на полу уже доходит мне до голени...
 
 水深１５ｃｍといったところだ。%K%P
 It must have been around fifteen centimeters deep.
 CN PLACEHOLDER
-Глубина – где-то 15 сантиметров.
+Её глубина – где-то 15 сантиметров.
 
 優「完全には排水できないの？」%K%P
 LeMU can't pump out all this water?
@@ -1088,22 +1090,23 @@ LeMU не может откачать всю эту воду?
 空「できないようです」%K%P
 It appears not.
 CN PLACEHOLDER
-Видимо, нет.
+По всей видимости, нет.
 
 空「大きな浸水箇所は隔壁で遮断したのですが、細かいダクト等を通して、今もこの区画に少しずつ、水が流れ込み続けています」%K%P
 All major areas where leaking has occurred have been closed off by shutting a partition; however, water is continuing to flow in through small ducts even now.
 CN PLACEHOLDER
-Все основные зоны, в которых обнаружены течи, были изолированы. Однако даже сейчас вода продолжает течь через небольшие отверстия.
+Основные зоны, в которых обнаружены течи, были изолированы. Однако даже сейчас вода продолжает протекать через небольшие отверстия.
 
 空「排水ポンプはフル稼働していますが、現在の状態より水位を下げるには、恐らく――」%K%P
 The water-clearing pumps are operating at full capacity, but to make the water level recede...
 CN PLACEHOLDER
-Помповые насосы работают на полную мощность, но чтобы понизить уровень воды...
+Помповые насосы работают на полную мощность, но для того, чтобы понизить уровень воды...
+// в тексте используется "дренажный насос", что более конкретно, чем просто "помпа" или "помповый насос"
 
 武「元のでっかい穴を塞がないとダメ、ってことか？」%K%P
 The big hole will have to be plugged. Is that what you were gonna say?
 CN PLACEHOLDER
-Большую дырку необходимо заткнуть. Ты это хотела сказать?
+Нужно заткнуть большую дырку, что появилась первой, да?
 
 優「でも、浸水元の区画には隔壁が下りてしまってるから、ここから修理に行くこともできない……」%K%P
 But with the partition shutting off the sector of the original leak, there's no way to access it...
@@ -1128,17 +1131,17 @@ CN PLACEHOLDER
 空「それにしても、本当に……申し訳ありませんでした」%K%P
 But I must sincerely apologize...
 CN PLACEHOLDER
-Но я должна извиниться перед всеми...
+Я должна извиниться перед всеми.
 
 空「２次浸水の危険が迫っていたというのに、皆さんに前もってお伝えできていなかったなんて……」%K%P
 Even though the second flooding was about to occur, I failed to notice and warn you all...
 CN PLACEHOLDER
-Несмотря на то, что должно было произойти второе затопление, я не смогла этого заметить и предупредить вас...
+Мне очень жаль, что я не смогла предупредить вас о том, что произойдёт второе затопление...
 
 空はキーを操りながら、心底すまなそうに頭を垂れる。%K%p
 As she manipulated the keys, Sora bowed her head, looking deeply apologetic.
 CN PLACEHOLDER
-Нажимая на кнопки, Сора с грустью поникла головой.
+Нажимая на кнопки, Сора с грустью склонила голову.
 
 ミスは誰にもあるよ
 Everybody makes mistakes
